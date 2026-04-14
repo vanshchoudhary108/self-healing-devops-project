@@ -24,6 +24,7 @@ This project demonstrates a self-healing containerized application deployed on K
 ---
 
 ## 📂 Project Structure
+
 self-healing-devops-project/
 │
 ├── app/
